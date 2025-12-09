@@ -2,7 +2,5 @@
 Automated Python tool for validating Client KYC and Onboarding data.
 ### 📸 Project Screenshots
 **1. Automated Excel Dashboard (Red/Green Risk flags)**
-![Excel Report](name_of_your_excel_screenshot.png)
+![Excel Report](https://github.com/OmBT21MME032/Client-Onboarding-Validator/blob/main/Screenshot%202025-12-09%20134430.png)
 
-**2. Validation Execution**
-![Terminal Output](name_of_your_terminal_screenshot.png)
